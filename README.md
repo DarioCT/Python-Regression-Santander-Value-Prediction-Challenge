@@ -6,7 +6,7 @@ Santander Bank is asking Kagglers to help them identify the value of transaction
 
 .
 
-Detailed project description is avaialble on Medium:
+Detailed project description is available on Medium:
 
 https://medium.com/@xDCT/santander-value-prediction-challenge-a5a6d260e561
 
